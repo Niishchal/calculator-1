@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-"""Calculator module for scientific calculator application
+"""I guess it works
 """
 
 from __future__ import print_function
