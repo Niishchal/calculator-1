@@ -2,7 +2,7 @@
 
 """Minimal web interface for scientific calculator
 
-    AngulrJS with Flask
+    abc
 """
 
 from __future__ import print_function
